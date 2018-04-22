@@ -22,6 +22,7 @@
     <ProjectGuid>{C1402947-F24F-46F1-BD1A-A128FC8AE196}</ProjectGuid>
     <RootNamespace>Classif</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>Clustering</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
